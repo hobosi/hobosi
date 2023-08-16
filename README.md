@@ -5,7 +5,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobosi&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobosi&layout=compact&theme=dracula)](https://github.com/hobosi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobosi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhobosi&count_bg=%238AE3DD&title_bg=%235D6C60&icon=&icon_color=%232F2727&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
